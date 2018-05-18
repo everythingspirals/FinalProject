@@ -1,6 +1,6 @@
 <template>
   <body class="text-center">
-    <img src="../assets/logo.png">
+    <img class="logo" src="../assets/logo.png">
     <form class="form-signin" @submit.prevent="handleSubmit">
       <h1 class="h3 mb-3 font-weight-normal">Please sign in</h1>
       <label for="inputUsername" class="sr-only">Username</label>

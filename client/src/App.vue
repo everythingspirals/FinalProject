@@ -42,12 +42,14 @@ body {
 }
 
 /* Form */
+.logo{
+   margin-top: 60px;
+}
 .form-signin {
   width: 100%;
   max-width: 330px;
   padding: 15px;
   margin: auto;
-  margin-top: 60px;
 }
 .form-signin .checkbox {
   font-weight: 400;

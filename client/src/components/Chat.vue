@@ -102,9 +102,11 @@ export default {
   background: #333;
   width: 100%;
   height:100%;
-  padding: 20px 20px 60px 20px;
+
 }
 .chat {
+  background: #333;
+  padding: 20px;
   margin-bottom: 50px;
   width: 100%;
   display:block;
