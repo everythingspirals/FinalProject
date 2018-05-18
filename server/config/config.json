@@ -1,0 +1,10 @@
+{
+    "db": {
+        "uri": "mongodb://localhost:27017/final"
+    },
+    "url": "http://localhost:8080",
+    "apiURL": "http://localhost:1337/api/v1",
+    "port": 1337,
+    "securePort": 1338,
+    "env": "dev"
+}
